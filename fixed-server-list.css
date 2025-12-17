@@ -1,6 +1,6 @@
 :root {
-    --guildbar-avatar-size: 48px;
-    --blob-scale: 48;
+    --guildbar-avatar-size: 56px;
+    --blob-scale: 56;
 
     --guildbar-folder-size: var(--guildbar-avatar-size);
     --folder-blob-scale: var(--blob-scale);
