@@ -1,5 +1,5 @@
 /* Compact Mode */
-.compact_c19a55 .headerText_c19a55 > .username_c19a55::before {
+.compact_2i8Bfm .headerText_2i8Bfm > .username_2i8Bfm::before {
   content: ''; 
   width: calc(100% + 6px); 
   height: 100%;
@@ -11,12 +11,12 @@
   left: -4px;
   z-index: -1;
 }
-.compact_c19a55 .headerText_c19a55 > .username_c19a55::after {
+.compact_2i8Bfm .headerText_2i8Bfm > .username_2i8Bfm::after {
   content: ":";
 }
 
 /* Cozy Mode */
-.cozy_c19a55 .headerText_c19a55 > .username_c19a55::before {
+.cozy_2i8Bfm .headerText_2i8Bfm > .username_2i8Bfm::before {
   content: ''; 
   width: calc(100% + 7px); 
   height: 100%;
@@ -29,10 +29,10 @@
   /* repairs left shift*/
   left: -3px;
 }
-.cozy_c19a55 .headerText_c19a55 > .username_c19a55::after {
+.cozy_2i8Bfm .headerText_2i8Bfm > .username_2i8Bfm::after {
   content: ":";
 }
 /* repairs left shift */
-.cozy_c19a55 .headerText_c19a55 > .username_c19a55 {
+.cozy_2i8Bfm .headerText_2i8Bfm > .username_2i8Bfm {
   margin-left: 3px;
 }
